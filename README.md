@@ -7,3 +7,4 @@ All the other apps want money for training simply I don't know why. But yap they
 I will try to develop it when I will get some extra time later.
 you can make the executable file later from the actual code and you can also modify it for your usage. Just give a courtesy anywhere mentioning my name in small letters.
 I am giving the courtesy for teaching me python tkinter by youtube channel to Traversy Media and John Elder from codemy.com 
+Now in Sreed 2.0 any pdf can be read. pytessaract has to be installed.
